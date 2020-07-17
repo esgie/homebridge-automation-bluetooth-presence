@@ -1,4 +1,4 @@
-const noble = require('noble');
+const noble = require('@abandonware/noble');
 const debug = require('debug');
 const fakegatoHistory = require('fakegato-history');
 
