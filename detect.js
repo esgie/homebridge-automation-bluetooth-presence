@@ -1,4 +1,4 @@
-const noble = require('noble');
+const noble = require('@abandonware/noble');
 
 const formatRSSI = (rssi) => {
   const signal = 2 * (rssi + 100);
